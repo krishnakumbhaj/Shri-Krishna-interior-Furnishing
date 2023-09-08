@@ -1,0 +1,293 @@
+*
+{
+            margin: 0;
+            padding: 0;
+            border: border-box;
+}
+body
+{
+            background-color: #eae6de;
+
+}
+.place1
+{
+            display: flex;
+            justify-content: center;
+            background-color: rgba(199, 118, 118, 0.825);
+}
+.place2
+{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            height: 450px;
+            transition: all 2s steps(2);
+}
+.a1:hover
+{
+            transform: scale(.9);
+}
+.a2:hover
+{
+            transform: scale(.9);
+}
+.a3:hover
+{
+            transform: scale(.9);
+}
+.a4:hover
+{
+            transform: scale(.9);
+}
+.b1:hover
+{
+            transform: scale(.9);
+}
+.b2:hover
+{
+            transform: scale(.9);
+}
+.b3:hover
+{
+            transform: scale(.9);
+}
+.b4:hover
+{
+            transform: scale(.9);
+}
+.c1:hover
+{
+            transform: scale(.9);
+}
+.c2:hover
+{
+            transform: scale(.9);
+}
+.c3:hover
+{
+            transform: scale(.9);
+}
+.c4:hover
+{
+            transform: scale(.9);
+}
+.d1:hover
+{
+            transform: scale(.9);
+}
+.d2:hover
+{
+            transform: scale(.9);
+}
+.d3:hover
+{
+            transform: scale(.9);
+}
+.d4:hover
+{
+            transform: scale(.9);
+}
+.e1:hover
+{
+            transform: scale(.9);
+}
+.e2:hover
+{
+            transform: scale(.9);
+}
+.e3:hover
+{
+            transform: scale(.9);
+}
+.e4:hover
+{
+            transform: scale(.9);
+}
+.b:hover
+{
+            transform: scale(.9);
+}
+
+
+.a
+{
+            margin-top: 10px;
+            width: 370px;
+            height: 400px;
+            /* background-color: black; */
+
+}
+.a1
+{
+        background-image: url(image16.webp);
+        background-size: cover;
+
+}
+.a2
+{
+        background-image: url(image17.webp);
+        background-size: cover;
+
+}
+.a3
+{
+        background-image: url(image18.webp);
+        background-size: cover;
+
+}
+.a4
+{
+        background-image: url(image19.webp);
+        background-size: cover;
+
+}
+.b1
+{
+        background-image: url(image20.webp);
+        background-size: cover;
+
+}
+.b2
+{
+        background-image: url(image21.webp);
+        background-size: cover;
+
+}
+.b3
+{
+        background-image: url(image22.webp);
+        background-size: cover;
+
+}
+.b4
+{
+        background-image: url(image23.webp);
+        background-size: cover;
+
+}
+.c1
+{
+        background-image: url(image24.webp);
+        background-size: cover;
+
+}
+.c2
+{
+        background-image: url(image25.webp);
+        background-size: cover;
+
+}
+.c3
+{
+        background-image: url(image26.webp);
+        background-size: cover;
+
+}
+.c4
+{
+        background-image: url(image27.webp);
+        background-size: cover;
+
+}
+.d1
+{
+        background-image: url(image28.webp);
+        background-size: cover;
+
+}
+.d2
+{
+        background-image: url(image29.webp);
+        background-size: cover;
+
+}
+.d3
+{
+        background-image: url(image30.webp);
+        background-size: cover;
+
+}
+.d4
+{
+        background-image: url(image31.avif);
+        background-size: cover;
+
+}
+.e1
+{
+        background-image: url(image28.webp);
+        background-size: cover;
+
+}
+.e2
+{
+        background-image: url(image29.webp);
+        background-size: cover;
+
+}
+.e3
+{
+        background-image: url(image30.webp);
+        background-size: cover;
+
+}
+.e4
+{
+        background-image: url(image31.avif);
+        background-size: cover;
+
+}
+.place3
+{
+            display: flex;
+            justify-content: center;
+            background-color: rgba(199, 118, 118, 0.825);
+}
+.place4
+{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            height: 600px;
+            transition: all 2s steps(2);
+}
+.b
+{
+            margin-top: 10px;
+            width: 490px;
+            height: 550px;
+            /* background-color: black; */
+            
+}
+.f1
+{
+            background-image: url(image32.webp);
+            background-size: cover;
+}
+.f2
+{
+           
+            background-image: url(image33.avif);
+            background-size: cover;
+}
+.f3
+{
+            background-image: url(image34.webp);
+            background-size: cover;
+}
+.g1
+{
+        background-image: url(image35.avif);
+        background-size: cover; 
+}
+.g2
+{
+        background-image: url(image36.webp);
+        background-size: cover; 
+}
+.g3
+{
+        background-image: url(image37.webp);
+        background-size: cover; 
+}
+

@@ -1,0 +1,34 @@
+div
+{
+            width: auto;
+            height: 700px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+
+}
+
+.loader
+{
+            height: 100px;
+            width: 100px;
+            color: black;
+           border-radius: 50%;
+           border: 20px solid #74411d;
+           border-top:20px solid  wheat;
+         
+
+           animation: loader 1s ease-in-out infinite normal;
+}
+@keyframes loader
+{
+            from
+            {
+                  transform: rotate(0deg);      
+            }
+            to
+            {
+                        transform: rotate(360deg);
+            }
+}
